@@ -24,3 +24,5 @@
   <a href="mailto:gabrielcn03@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/gmertz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
+
+![snake gif](https://github.com/gabrielcn1/gabrielcn1/blob/output/github-contribution-grid-snake.svg)
