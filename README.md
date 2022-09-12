@@ -1,13 +1,16 @@
-### Hello World! 👋
+### Hello, World! 👋
 
-- 🔭 Atualmente estudo Análise e desenvolvimento de sistemas na Estácio...
-- 😄 Pretendo ser um desenvolvedor front-end...
+<img height = "80px" src="https://user-images.githubusercontent.com/92947069/183308602-5b5810ac-0990-45e6-b448-043c239db400.gif"/>
+
+📘  Graduando em Análise e Desenv. de Sistemas na Estácio <br>
+💻  Desenvolvedor Front-end
 
 <div align="center">
   <a href="https://github.com/gabrielcn1">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielcn1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcn1&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
 <div style="display: inline_block"><br>
   <img alt="icon-HTML" width:"40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img alt="icon-HTML" width:"40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
