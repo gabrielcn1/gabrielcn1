@@ -27,6 +27,8 @@
   <a href="https://www.linkedin.com/in/gabrielcn03/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:gabrielcn03@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/gmertz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/gmertz" target="_blank"><img src="https://camo.githubusercontent.com/fd466d5ecafcd13d4bc59e84d805f1f006c3b11d9905df3ef28a30c2696c10b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d504f5254464f4c494f2d2532333939363844393f7374796c653d666f722d7468652d6261646765" target="_blank"></a>
 </div>
+
 
 ![snake gif](https://github.com/gabrielcn1/gabrielcn1/blob/output/github-contribution-grid-snake.svg)
