@@ -1,10 +1,15 @@
-### <h1>Hello, World! 👋</h1>
+### <h1>Hello, I'm Gabriel 👋 </h1>
 
 <img height = "80px" src="https://user-images.githubusercontent.com/92947069/183308602-5b5810ac-0990-45e6-b448-043c239db400.gif"/>
 
-📘  Graduando em Análise e Desenv. de Sistemas na Estácio <br>
-💻  Desenvolvedor Front-end
 
+<p>🌎 I'm from Belo Horizonte/Minas Gerais - Brazil</p>
+<p>📖 Studying to become a Software Developer at Estácio</p>
+<p>💼 Open to new professional oportunities</p>
+<p>💬 Feel free to ask me anything</p>
+<p>📝 My email is gabrielcn03@outlook.com</p>
+
+##
 <div align="center">
   <a href="https://github.com/gabrielcn1">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielcn1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
