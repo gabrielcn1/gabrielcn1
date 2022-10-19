@@ -1,4 +1,4 @@
-### <h1 align="center">Hello, I'm Gabriel 👋 </h1>
+### <h1 align="center">Hello, I'm Gabriel 🧙 </h1>
 
 <h1>💭 About me</h1>
 
