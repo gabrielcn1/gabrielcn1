@@ -6,7 +6,7 @@
   <div>
     <p>🌎 I'm from Belo Horizonte/Minas Gerais - Brazil</p>
     <p>📖 Studying to become a Software Developer at Estácio</p>
-    <p>💼 Currently works at Prodemge</p>
+    <p>💼 Currently works at PX Bank</p>
     <p>💬 Feel free to ask me anything</p>
     <p>📝 My email is gabrielcn03@outlook.com</p>
   
